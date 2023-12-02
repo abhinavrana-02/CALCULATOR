@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.button {
+  background-color: #ff9950;
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 5% solid black;
+  border-radius: 20px 20px;
+  cursor: pointer;
+}
+
+.input {
+  width: 291px;
+  font-size: 20px;
+  margin: 0;
+  padding: 10px 0px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
